@@ -1,2 +1,6 @@
 * bluebios
+* ruby
+* python
+* c++
+
 
